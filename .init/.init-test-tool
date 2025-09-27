@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/wristfit-virtual-try-on-19725-18710/api_hand_detection"
+}
